@@ -9,7 +9,7 @@ sap.ui.define([
 	return Controller.extend("sap.ui.core.tutorial.odatav4.controller.App", {
 
 		/**
-		 *  Hook for initializing the controller
+		 *  Hook for initializing the controllerasdfasf
 		 */
 		onInit : function () {
 			var oJSONData = {
